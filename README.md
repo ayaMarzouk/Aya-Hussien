@@ -21,7 +21,7 @@ Note: The following HLS is for Android platform, it concerns only the main featu
 |Balance screen|Check app behaviour when user delete existing income from a category that has more than one listed income||medium|
 |Balance screen|Check app behaviour when user edit 'Note' section in existing salary||medium|
 |New transfer|Check app behaviour when user try to transfer amount of money that exceed the amount which is in the transfer account ||medium|
-|New transfer||Check app behaviour when user try to perform a transformation process and got interrupted with a call on the same devicec while he's in the middle of the process |low|
+|New transfer||Check app behaviour when user try to perform a transformation process and got interrupted with a call on the same device  while he's in the middle of the process |low|
 |Accounts|Check app behaviour when user try to add a new account with an arabic name||medium|
 |Settings|Check app behaviour when user check on 'budget mode' option with a setted budget to 1000||High|
 |Settings|Check app behaviour when user app language to 'Francais'||High|
@@ -33,13 +33,13 @@ Note: The following HLS is for Android platform, it concerns only the main featu
 
 ## UX issues and Suggested improvements:
 
-### Isssues:
-1. About the app page is deformed (written in diffeerent font size).
+### Issues:
+1. About the app page is deformed (written in different font size).
 
 ###  Improvements:
 1- Budget should be monthly based (it's no use to have the same budget applied every month) or at least it can be optional to choose.<br/>
 2. App needs better iconography for category section.<br/>
-3. App needs to suport Arabic to be applied as a main langugage for the app.<br/>
+3. App needs to support Arabic to be applied as a main language for the app.<br/>
 4. There should be helping instructions for the main features in the app, for current version the most instructions appear only on the main page.<br/>
 
 # Third Part: Test Automation
