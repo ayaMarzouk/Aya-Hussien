@@ -51,7 +51,7 @@ Note: The following HLS is for Android platform, it concerns only the main featu
 ## Automated script for Test case ID #7
 
 ```java
-code
+
 package WorkingWithElements;
 import org.openqa.selenium.By;
 import org.openqa.selenium.By.ByClassName;
